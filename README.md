@@ -1,16 +1,16 @@
-## Hi there 👋
+#  João Paulo  
 
-<!--
-**Akam0y/Akam0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🕶️ Sobre mim  
+- 💻 Dev iniciante mas sempre explorando novas stacks.  
+- 🌍 Apaixonado por tecnologia, automação e resolver problemas reais.  
+- ⚡ Estilo de aprendizado: **curiosidade + prática + persistência**.  
+- 🎯 Objetivo: Evoluir como **Back-end Developer** (Python & além).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Ferramentas  
+
+💀 Languages: [![My Skills](https://skillicons.dev/icons?i=PY)](https://skillicons.dev) | Java 
+🛠 Tools: Git | GitHub | VS Code
+📊 Extra: Projetos pessoais, estudos contínuos
