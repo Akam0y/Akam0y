@@ -1,5 +1,5 @@
 
-# <div align="center"> Olá! 👋 Sou o AKAM0Y </div>
+# <div align="center">  Sou o AKAM0Y </div>
 
 <div align="center">
   <p>Desenvolvedor focado em **Back-end**, sempre em busca de novos conhecimentos e desafios para evoluir na área.</p>
