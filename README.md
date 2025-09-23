@@ -16,4 +16,3 @@
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
-📊 Extra:Projetos pessoais, estudos contínuos
