@@ -1,14 +1,17 @@
+<div align="center">
+  <img src="https://i.imgur.com/gK9tO9D.gif" alt="Animated coding GIF" />
+</div>
 
-# <div align="center">  Sou o AKAM0Y </div>
+# <div align="center"> Hey there! 👋 I'm AKAM0Y <img src="https://i.imgur.com/8QzXkPq.gif" alt="Bouncing basketball" width="40"/> </div>
 
 <div align="center">
-  <p>Desenvolvedor focado em **Back-end**, sempre em busca de novos conhecimentos e desafios para evoluir na área.</p>
-  <p>Atualmente, estou me aprofundando em **Python** e **JavaScript** e adoro criar soluções eficientes e robustas.</p>
+  <p>I'm a **Back-end Developer** always looking for new knowledge and challenges to grow in the field.</p>
+  <p>Currently, I'm deep-diving into **Python** and **JavaScript**, and I love building efficient, robust solutions.</p>
 </div>
 
 ---
 
-### 🔥 Minhas Habilidades
+### 🔥 My Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,css" />
@@ -16,7 +19,7 @@
 
 ---
 
-### 💻 Ferramentas de Trabalho
+### 💻 Tools of the Trade
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
@@ -24,25 +27,16 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akam0y&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akam0y&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akam0y&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akam0y&layout=compact&theme=dark" alt="Top languages" />
 </div>
 
 ---
----
 
-### 🤝 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://linkedin.com/in/seu_perfil_do_linkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
- ---
-
-### 🤝 Conecte-se Comigo
+### 🤝 Connect with Me
 
 <div align="center">
   <a href="https://github.com/Akam0y">
