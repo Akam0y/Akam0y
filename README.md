@@ -1,18 +1,48 @@
-#  João Paulo  
+<div align="center">
+  <img src="https://i.imgur.com/gK9tO9D.gif" alt="GIF animado de código" />
+</div>
 
+# <div align="center"> Olá! 👋 Sou o AKAM0Y </div>
 
-### 🕶️ Sobre mim  
-- 💻 Dev iniciante mas sempre explorando novas stacks.  
-- 🌍 Apaixonado por tecnologia, automação e resolver problemas reais.  
-- ⚡ Estilo de aprendizado: **curiosidade + prática + persistência**.  
-- 🎯 Objetivo: Evoluir como **Back-end Developer** (Python & além).  
+<div align="center">
+  <p>Desenvolvedor focado em **Back-end**, sempre em busca de novos conhecimentos e desafios para evoluir na área.</p>
+  <p>Atualmente, estou me aprofundando em **Python** e **JavaScript** e adoro criar soluções eficientes e robustas.</p>
+</div>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas  
- [![My Skills](https://skillicons.dev/icons?i=css,py,js)](https://skillicons.dev)
-<p style="text-align: center;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+### 🔥 Minhas Habilidades
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,css" />
+</div>
+
+---
+
+### 💻 Ferramentas de Trabalho
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
+</div>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akam0y&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akam0y&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 🤝 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://linkedin.com/in/seu_perfil_do_linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
+  <a href="https://github.com/Akam0y">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</div>
