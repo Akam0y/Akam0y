@@ -11,9 +11,9 @@
 
 ### 🛠️ Tecnologias & Ferramentas  
  [![My Skills](https://skillicons.dev/icons?i=css,py,js)](https://skillicons.dev)
- <p align="center">
- <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=vscode" />
+<p style="text-align: center;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
 📊 Extra:Projetos pessoais, estudos contínuos
