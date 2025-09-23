@@ -10,6 +10,6 @@
 ---
 
 ### 🛠️ Tecnologias & Ferramentas  
-💀 Languages: [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=css,py,js)](https://skillicons.dev)
 🛠 Tools: Git | GitHub | VS Code
 📊 Extra: Projetos pessoais, estudos contínuos
