@@ -16,4 +16,4 @@
     <img src="https://skillicons.dev/icons?i= vscode" />
   </a>
 </p>
-📊 Extra: [Projetos pessoais, estudos contínuos](https://github.com/Akam0y/Agenda-rapida)
+📊 Extra:Projetos pessoais, estudos contínuos
