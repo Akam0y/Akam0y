@@ -3,9 +3,7 @@
 
 <div align="center">
   <p>I'm a **Back-end Developer** always looking for new knowledge and challenges to grow in the field.</p>
-  <p>Currently, I'm deep-diving into **Python** and **JavaScript**, and I love building efficient, robust solutions.</p>
-</div>
-
+  <p>Currently, I'm deep-diving into **Python** and **JavaScript**, and I love building efficient, robust solutions
 ---
 
 ### 🔥 My Skills
