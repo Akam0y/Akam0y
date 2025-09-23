@@ -21,11 +21,13 @@
 
 ---
 
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akam0y&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akam0y&layout=compact&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akam0y&show_icons=true&theme=graywhite" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akam0y&layout=compact&theme=graywhite" alt="Top languages" />
 </div>
 
 ---
