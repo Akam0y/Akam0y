@@ -32,6 +32,7 @@
 </div>
 
 ---
+---
 
 ### 🤝 Conecte-se Comigo
 
@@ -39,7 +40,15 @@
   <a href="https://linkedin.com/in/seu_perfil_do_linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+ ---
+
+### 🤝 Conecte-se Comigo
+
+<div align="center">
   <a href="https://github.com/Akam0y">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.instagram.com/sxc_joao">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
