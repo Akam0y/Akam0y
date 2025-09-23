@@ -1,5 +1,5 @@
 
-# <div align="center"> Hey there! 👋 I'm AKAM0Y <img src="https://i.imgur.com/8QzXkPq.gif" alt="Bouncing basketball" width="40"/> </div>
+# <div align="center"> Hey there! 👋 I'm AKAM0Y
 
 <div align="center">
   <p>I'm a **Back-end Developer** always looking for new knowledge and challenges to grow in the field.</p>
