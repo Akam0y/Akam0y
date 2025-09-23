@@ -17,3 +17,4 @@
   </a>
 </p>
 📊 Extra: Projetos pessoais, estudos contínuos
+[Projetos pessoais](https://github.com/Akam0y/Agenda-rapida)
