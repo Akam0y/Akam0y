@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/gK9tO9D.gif" alt="GIF animado de código" />
-</div>
 
 # <div align="center"> Olá! 👋 Sou o AKAM0Y </div>
 
