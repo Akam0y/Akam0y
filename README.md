@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/gK9tO9D.gif" alt="Animated coding GIF" />
-</div>
 
 # <div align="center"> Hey there! 👋 I'm AKAM0Y <img src="https://i.imgur.com/8QzXkPq.gif" alt="Bouncing basketball" width="40"/> </div>
 
